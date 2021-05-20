@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
 		}
 		
 		public static void main(String args[]) {
-		String email11 = "abc+xyz@bridgelabz.co";
+		String email11 = "abc+xyz@bridgelabz.co.in";
 		System.out.println(email11 +":" +isValid(email11));
 		}			
 	}
